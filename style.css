@@ -60,3 +60,8 @@ body {
   padding: 8px;
   border-bottom: 1px solid #555;
 }
+
+button:hover {
+  background-color: #04ff81; 
+  transform: scale(1.2); 
+}
